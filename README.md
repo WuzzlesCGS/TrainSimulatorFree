@@ -1,2 +1,2 @@
-# Train-Simulator-Free
+# TrainSimulatorFree
 Train Simulator Free
